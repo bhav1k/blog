@@ -1,1 +1,1 @@
-Sitemap: https://bhav1k.github.io/blog/sitemap.xml
+Sitemap: https://bhav1k.ml/sitemap.xml
